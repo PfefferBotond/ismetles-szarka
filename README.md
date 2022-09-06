@@ -1,4 +1,4 @@
-# [Név]
+# [pfefferbotond]
 
 
 ## Hogyan kezdj neki?
